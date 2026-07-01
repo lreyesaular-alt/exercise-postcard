@@ -40,8 +40,11 @@ body {
 }
 .postcard-footer {
 	text-align: center;
-	background: #757575;
 	padding: 10px;
+}
+button{
+	background: red;
+	color: white;
 }
 input {
 	border: none;
